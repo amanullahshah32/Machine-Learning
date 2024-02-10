@@ -1,2 +1,2 @@
 # Machine-Learning
-This repo is only for my personal usage. My practiced code will be saved here. 
+I only use this repository for my own purposes. This is where my practice code will be kept.
